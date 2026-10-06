@@ -153,3 +153,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *"Two roads diverged in a wood, and I— I took the one less traveled by, And that has made all the difference."* - Robert Frost (and now our AI can continue the journey!)
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/poetry_generation/) — Try an interactive explanation and inspect the original source and results. Browser teaching examples are distinguished from trained models.
+<!-- demo-lab:end -->
